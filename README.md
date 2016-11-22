@@ -1,4 +1,4 @@
-## Example use Seneca framework with es.next
+## Example of use Seneca framework with es.next
 
 Install:
 ```
